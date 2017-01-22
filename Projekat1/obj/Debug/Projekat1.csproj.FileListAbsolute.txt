@@ -1,0 +1,14 @@
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Form1.resources
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.Cache
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+c:\users\stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
+C:\Users\Stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Form_admin.resources
+C:\Users\Stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Form_Korisnik.resources
+C:\Users\Stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Registracija_Form.resources
+C:\Users\Stefan\documents\visual studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Sedište.resources
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\Projekat1\Projekat1\obj\Debug\Projekat1.Film_Forma.resources
